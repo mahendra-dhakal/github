@@ -3,5 +3,3 @@ from dhakal branch
 From mahendra branch 
 from master branch
 after merge in master branch
-
-master branch to check log
